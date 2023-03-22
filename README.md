@@ -9,8 +9,9 @@
   <a href="https://kabinny.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/BLOG-a190b6?style=flat-square&logo=Github&logoColor=white"/>
   </a>
-
-<!--   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kabinny&langs_count=6&layout=compact&bg_color=30,E55D87,5FC3E4&title_color=fff&text_color=fff' alt='Most Used Languages' /> -->
+  
+  <br />
+  <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kabinny&layout=compact&bg_color=30,E55D87,5FC3E4&title_color=fff&text_color=fff' alt='Most Used Languages' />
 
   <h2>Tech Stack</h2>
   <div>
@@ -38,7 +39,7 @@
   </div>
 
   <h2>Skills</h2>
-  <div class="badge-wrap">
+  <div>
   <img src="https://img.shields.io/badge/Photoshop-E55D87?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Illustrator-c079a1?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/XD-a190b6?style=flat-square&logo=AdobeXD&logoColor=white"/>
